@@ -401,7 +401,7 @@ nav .dropdown ul li:hover a {
 .sec5 .picture::after {
   content: '';
   width: 120px;
-  height: calc(100% - 80px);
+  height: calc(100% - 60px);
   border-left: 80px solid var(--main-color);
   border-bottom: 80px solid var(--main-color);
   border-color: transparent transparent var(--main-color) var(--main-color);
